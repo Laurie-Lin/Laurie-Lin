@@ -1,8 +1,8 @@
 ### Nightmare
 
-![Nightmare's GitHub stats](https://laurie-lin.vercel.app/api?username=mengyanshou&count_private=true&include_all_commits=true&show_icons=true&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER
+![Nightmare's GitHub stats](https://laurie-lin.vercel.app/api?username=Laurie-Lin&count_private=true&include_all_commits=true&show_icons=true&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER
 )
-![Top Langs](https://laurie-lin.vercel.app/api/top-langs/?username=mengyanshou&hide=glsl,c%23&langs_count=5&layout=compact&include_orgs=true)
+![Top Langs](https://laurie-lin.vercel.app/api/top-langs/?username=Laurie-Lin&hide=glsl,c%23&langs_count=5&layout=compact&include_orgs=true)
 
 - 🌱 used Full-time **Flutter**er. used work on didi.
 - 📋 Love computer and guitar.

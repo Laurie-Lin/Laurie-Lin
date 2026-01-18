@@ -16,22 +16,20 @@
   </picture>
 
   <!-- Top Languages -->
-  <a href="https://github.com/stats-organization/github-stats-extended-nu">
-    <picture>
-      <source
-        srcset="https://github-stats-extended-nu.vercel.app/api/top-langs/?username=Laurie-Lin&langs_count=7&hide=glsl,c%23,cmake&border_radius=24&layout=compact&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-stats-extended-nu.vercel.app/api/top-langs/?username=Laurie-Lin&langs_count=7&hide=glsl,c%23,cmake&border_radius=24&layout=compact&theme=default"
-        media="(prefers-color-scheme: light)"
-      />
-      <img
-        src="https://github-stats-extended-nu.vercel.app/api/top-langs/?username=Laurie-Lin&langs_count=7&hide=glsl,c%23,cmake&border_radius=24&layout=compact&theme=default"
-        alt="Top Languages"
-      />
+  <picture>
+    <source
+      srcset="https://github-stats-extended-nu.vercel.app/api/top-langs/?username=Laurie-Lin&langs_count=7&hide=glsl,c%23,cmake&border_radius=24&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-stats-extended-nu.vercel.app/api/top-langs/?username=Laurie-Lin&langs_count=7&hide=glsl,c%23,cmake&border_radius=24&layout=compact&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://github-stats-extended-nu.vercel.app/api/top-langs/?username=Laurie-Lin&langs_count=7&hide=glsl,c%23,cmake&border_radius=24&layout=compact&theme=default"
+      alt="Top Languages"
+    />
     </picture>
-  </a>
 </p>
 
 上面代码并不能直接适配主题

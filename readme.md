@@ -15,15 +15,15 @@
 
 <picture>
   <source
-    srcset="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&theme=dark"
+    srcset="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&border_radius=24&theme=dark&v=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&theme=light"
+    srcset="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&border_radius=24&theme=buefy&v=light"
     media="(prefers-color-scheme: light)"
   />
   <img
-    src="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&theme=light"
+    src="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&border_radius=24&theme=buefy"
   />
 </picture>
 

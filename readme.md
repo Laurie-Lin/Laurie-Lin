@@ -25,19 +25,17 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Laurie-Lin&langs_count=7&hide=glsl,c%23,cmake&border_radius=24&layout=compact&theme=default"
+        srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Laurie-Lin&langs_count=7&hide=glsl,c%23,cmake&border_radius=24&layout=compact&theme=buefy"
         media="(prefers-color-scheme: light)"
       />
       <img
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Laurie-Lin&langs_count=7&hide=glsl,c%23,cmake&border_radius=24&layout=compact&theme=default"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Laurie-Lin&langs_count=7&hide=glsl,c%23,cmake&border_radius=24&layout=compact&theme=buefy"
         alt="Top Languages"
       />
     </picture>
   </a>
 </p>
  
-[![GitHub Stats](https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=buefy&bg_color=00000000&border_radius=24&hide_border=true
-)]()
 
 - 🌱 used Full-time **Flutter**er. used work on didi.
 - 📋 Love computer and guitar.

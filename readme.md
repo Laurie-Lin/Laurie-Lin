@@ -1,35 +1,31 @@
 ### Hi 👋 I'm **Laurie Lin** aka **Nightmare**
 
-
 <picture>
   <source
-          srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-          media="(prefers-color-scheme: dark)"
-  />
-  <source
-          srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&border_radius=24&theme=dark&v=dark"
+    srcset="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&border_radius=24&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&border_radius=24&theme=buefy&v=light"
+    srcset="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&border_radius=24&theme=buefy"
     media="(prefers-color-scheme: light)"
   />
   <img
     src="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&border_radius=24&theme=buefy"
   />
 </picture>
-
-
-[![GitHub Stats](https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=buefy&bg_color=00000000&border_radius=24&line_height=24
-)]() [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Laurie-Lin&langs_count=7&hide=glsl,c%23,cmake&&border_radius=24&layout=compact)](https://github.com/stats-organization/github-stats-extended)
+<picture>
+  <source
+    srcset="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&border_radius=24&theme=dark&hide_border=true&v=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&border_radius=24&theme=buefy&hide_border=true&v=light"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    src="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&border_radius=24&theme=buefy&hide_border=true"
+  />
+</picture>
 
 
 [![GitHub Stats](https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=buefy&bg_color=00000000&border_radius=24&hide_border=true

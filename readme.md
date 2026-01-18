@@ -3,7 +3,7 @@
 
 <picture>
   <source
-          srcset="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=buefy&border_radius=24&bg_color=00000000"
+          srcset="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=github_dark_dimmed&border_radius=24"
           media="(prefers-color-scheme: dark)"
   />
   <source

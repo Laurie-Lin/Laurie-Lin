@@ -15,16 +15,15 @@
 
 <picture>
   <source
-          srcset="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark&border_radius=24"
+          srcset="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&border_radius=24&theme=dark"
           media="(prefers-color-scheme: dark)"
   />
   <source
-          srcset="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=buefy&border_radius=24"
+          srcset="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&border_radius=24"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&border_radius=24" />
 </picture>
-
 
 
 [![GitHub Stats](https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=buefy&bg_color=00000000&border_radius=24&line_height=24

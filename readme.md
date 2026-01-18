@@ -1,31 +1,9 @@
 ### Hi 👋 I'm **Laurie Lin** aka **Nightmare**
 
-<p>
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&border_radius=24&line_height=24&theme=dark#gh-dark-mode-only"
-    alt="GitHub Stats Dark"
-  />
-  <img
-    src="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&border_radius=24&line_height=24&theme=buefy#gh-light-mode-only"
-    alt="GitHub Stats Light"
-  />
 
-  <!-- Top Languages -->
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Laurie-Lin&langs_count=7&hide=glsl,c%23,cmake&border_radius=24&layout=compact&theme=dark#gh-dark-mode-only"
-      alt="Top Languages Dark"
-    />
-    <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Laurie-Lin&langs_count=7&hide=glsl,c%23,cmake&border_radius=24&layout=compact&theme=buefy#gh-light-mode-only"
-      alt="Top Languages Light"
-    />
-  </a>
-</p>
+[![Stats Dark](https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&border_radius=24&line_height=24&theme=dark#gh-dark-mode-only)](#) [![Top Langs Dark](https://github-stats-extended.vercel.app/api/top-langs/?username=Laurie-Lin&langs_count=7&hide=glsl,c%23,cmake&border_radius=24&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended)
 
-
- 
+[![Stats Light](https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&border_radius=24&line_height=24&theme=buefy#gh-light-mode-only)](#) [![Top Langs Light](https://github-stats-extended.vercel.app/api/top-langs/?username=Laurie-Lin&langs_count=7&hide=glsl,c%23,cmake&border_radius=24&layout=compact&theme=buefy#gh-light-mode-only)](https://github.com/stats-organization/github-stats-extended)
 
 - 🌱 used Full-time **Flutter**er. used work on didi.
 - 📋 Love computer and guitar.

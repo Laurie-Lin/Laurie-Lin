@@ -3,30 +3,27 @@
 <p>
   <!-- GitHub Stats -->
   <img
-    src="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&border_radius=24&line_height=24&theme=dark"
+    src="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&border_radius=24&line_height=24&theme=dark#gh-dark-mode-only"
     alt="GitHub Stats Dark"
-    #gh-dark-mode-only
   />
   <img
-    src="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&border_radius=24&line_height=24&theme=buefy"
+    src="https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&border_radius=24&line_height=24&theme=buefy#gh-light-mode-only"
     alt="GitHub Stats Light"
-    #gh-light-mode-only
   />
 
   <!-- Top Languages -->
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Laurie-Lin&langs_count=7&hide=glsl,c%23,cmake&border_radius=24&layout=compact&theme=dark"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Laurie-Lin&langs_count=7&hide=glsl,c%23,cmake&border_radius=24&layout=compact&theme=dark#gh-dark-mode-only"
       alt="Top Languages Dark"
-      #gh-dark-mode-only
     />
     <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Laurie-Lin&langs_count=7&hide=glsl,c%23,cmake&border_radius=24&layout=compact&theme=buefy"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Laurie-Lin&langs_count=7&hide=glsl,c%23,cmake&border_radius=24&layout=compact&theme=buefy#gh-light-mode-only"
       alt="Top Languages Light"
-      #gh-light-mode-only
     />
   </a>
 </p>
+
 
  
 

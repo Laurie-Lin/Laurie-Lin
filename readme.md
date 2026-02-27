@@ -5,6 +5,9 @@
 
 [![Stats Light](https://github-stats-extended-nu.vercel.app/api?username=Laurie-Lin&include_all_commits=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&border_radius=24&line_height=24&theme=buefy#gh-light-mode-only)](#gh-light-mode-only) [![Top Langs Light](https://github-stats-extended.vercel.app/api/top-langs/?username=Laurie-Lin&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=7&hide=glsl,c%23,cmake&border_radius=24&layout=compact&exclude_repo=github-stats-extended&theme=buefy#gh-light-mode-only)](#gh-light-mode-only)
 
+[![Laurie's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=Laurie&layout=compact&langs_count=6&border_radius=24&line_height=24&theme=buefy)](https://wakatime.com/@Laurie)
+
+
 - 🌱 used Full-time **Flutter**er. used work for didi.
 - 📋 Love computer and guitar.
 - 🏠 Mostly code in Dart, Java/Kotlin, C, Python.
